@@ -5,10 +5,10 @@ import 'styled-components';
 declare module 'styled-components' {
   export interface DefaultTheme {
     colors: {
-      primaria: string,
-      secundaria: string,
-      background: string,
-      backgroundAlternativo: string,
+      primaria: string;
+      secundaria: string;
+      background: string;
+      backgroundAlternativo: string;
     };
   }
 }

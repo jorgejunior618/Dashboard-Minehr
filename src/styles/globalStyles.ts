@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components'
+import { createGlobalStyle } from 'styled-components';
 const GlobalStyle = createGlobalStyle`
   html {
     scroll-behavior: smooth;
@@ -78,6 +78,6 @@ const GlobalStyle = createGlobalStyle`
     width: 0;
     height: 0;
   }
-`
+`;
 
 export default GlobalStyle;

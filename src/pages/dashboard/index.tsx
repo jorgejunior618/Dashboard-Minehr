@@ -1,5 +1,5 @@
-import Graphic from "../../components/graphic";
-import { DashboardWrapper, GraphicsArea } from "./styled";
+import Graphic from '../../components/graphic';
+import { DashboardWrapper, GraphicsArea } from './styled';
 
 function Dashboard() {
   return (

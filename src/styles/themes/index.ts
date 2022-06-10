@@ -6,7 +6,7 @@ const theme = {
     secundaria: colors.SECUNDARIA,
     background: colors.BACKGROUND,
     backgroundAlternativo: colors.BACKGROUNDALT,
-  }
-}
+  },
+};
 
 export default theme;

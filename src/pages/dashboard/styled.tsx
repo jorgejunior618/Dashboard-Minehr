@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const DashboardWrapper = styled.main`
   padding: 35px 30px;
@@ -14,7 +14,7 @@ export const DashboardWrapper = styled.main`
       font-weight: 700;
       font-size: 28px;
     }
-  
+
     h2 {
       margin-top: 8px;
       font-weight: 500;
