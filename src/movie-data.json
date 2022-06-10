@@ -1,0 +1,117 @@
+{
+  "movies": [
+    {
+      "name": "Dr Strange: Multiverse of Madness",
+      "balance": 163.2
+    },
+    {
+      "name": "The Batman",
+      "balance": 114.9
+    },
+    {
+      "name": "Sonic 2: The Movie",
+      "balance": 56.4
+    },
+    {
+      "name": "Fantastic Beasts: The Secrets of Dumbledore",
+      "balance": 51.4
+    },
+    {
+      "name": "Top Gun: Maverick",
+      "balance": 45.8
+    },
+    {
+      "name": "Uncharted",
+      "balance": 27.5
+    }
+  ],
+  "countries": [
+    {
+      "name": "Brazil",
+      "movies": [
+        {
+          "name": "Dr Strange: Multiverse of Madness",
+          "balance": 27.2
+        },
+        {
+          "name": "The Batman",
+          "balance": 19.15
+        },
+        {
+          "name": "Sonic 2: The Movie",
+          "balance": 9.4
+        },
+        {
+          "name": "Fantastic Beasts: The Secrets of Dumbledore",
+          "balance": 8.56
+        },
+        {
+          "name": "Top Gun: Maverick",
+          "balance": 7.63
+        },
+        {
+          "name": "Uncharted",
+          "balance": 4.58
+        }
+      ]
+    },
+    {
+      "name": "USA",
+      "movies": [
+        {
+          "name": "Dr Strange: Multiverse of Madness",
+          "balance": 81.6
+        },
+        {
+          "name": "The Batman",
+          "balance": 57.45
+        },
+        {
+          "name": "Sonic 2: The Movie",
+          "balance": 28.2
+        },
+        {
+          "name": "Fantastic Beasts: The Secrets of Dumbledore",
+          "balance": 25.68
+        },
+        {
+          "name": "Top Gun: Maverick",
+          "balance": 22.89
+        },
+        {
+          "name": "Uncharted",
+          "balance": 13.74
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "movies": [
+        {
+          "name": "Dr Strange: Multiverse of Madness",
+          "balance": 54.4
+        },
+        {
+          "name": "The Batman",
+          "balance": 38.3
+        },
+        {
+          "name": "Sonic 2: The Movie",
+          "balance": 18.8
+        },
+        {
+          "name": "Fantastic Beasts: The Secrets of Dumbledore",
+          "balance": 17.12
+        },
+        {
+          "name": "Top Gun: Maverick",
+          "balance": 15.26
+        },
+        {
+          "name": "Uncharted",
+          "balance": 9.16
+        }
+      ]
+    }
+  ]
+}
