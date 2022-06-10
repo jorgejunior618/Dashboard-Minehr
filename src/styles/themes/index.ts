@@ -6,7 +6,6 @@ const theme = {
     secundaria: colors.SECUNDARIA,
     background: colors.BACKGROUND,
     backgroundAlternativo: colors.BACKGROUNDALT,
-    fontePadrao: colors.FONTEPADRAO,
   }
 }
 

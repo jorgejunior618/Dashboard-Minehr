@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
   * {
     padding: 0;
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat';
     font-size: 14px;
     transition-duration: .4s;
     box-sizing: border-box;
@@ -18,8 +18,14 @@ const GlobalStyle = createGlobalStyle`
     text-decoration: none;
     color: black;
   }
+  h1, h2, h3 {
+    color: ${({ theme }) => theme.colors.primaria};
+  }
   body {
-    background-color: white;
+    background-color: ${({ theme }) => theme.colors.backgroundAlternativo};
+    display: flex;
+    height: 100vh;
+    padding-top: 90px;
   }
   input, button, textarea, select {
     font-family: Arial, Helvetica, sans-serif;

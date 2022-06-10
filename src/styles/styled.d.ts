@@ -9,7 +9,6 @@ declare module 'styled-components' {
       secundaria: string,
       background: string,
       backgroundAlternativo: string,
-      fontePadrao: string,
     };
   }
 }
