@@ -22,3 +22,9 @@ export const DashboardWrapper = styled.main`
     }
   }
 `;
+
+export const GraphicsArea = styled.section`
+  display: grid;
+  grid-template-columns: 48% 48%;
+  gap: 4%;
+`;

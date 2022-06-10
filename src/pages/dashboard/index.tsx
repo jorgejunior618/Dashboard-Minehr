@@ -1,4 +1,5 @@
-import { DashboardWrapper } from "./styled";
+import Graphic from "../../components/graphic";
+import { DashboardWrapper, GraphicsArea } from "./styled";
 
 function Dashboard() {
   return (
@@ -7,6 +8,11 @@ function Dashboard() {
         <h1>Dashboard</h1>
         <h2>Desafio Técnico Frontend</h2>
       </header>
+
+      <GraphicsArea>
+        <Graphic />
+        <div></div>
+      </GraphicsArea>
     </DashboardWrapper>
   );
 }
