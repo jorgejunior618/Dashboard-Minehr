@@ -1,115 +1,99 @@
 {
   "movies": [
     {
-      "name": "Dr Strange: Multiverse of Madness",
-      "balance": 163.2
+      "name": "Dr Strange",
+      "balances":[
+        {
+          "date": "2022-05-08",
+          "balance": 65.54
+        },
+        {
+          "date": "2022-05-15",
+          "balance": 31.4
+        },
+        {
+          "date": "2022-05-22",
+          "balance": 13.17
+        },
+        {
+          "date": "2022-06-06",
+          "balance": 53.1
+        }
+      ]
     },
     {
       "name": "The Batman",
-      "balance": 114.9
+      "balances":[
+        {
+          "date": "2022-03-06",
+          "balance": 32.2
+        },
+        {
+          "date": "2022-03-13",
+          "balance": 20.37
+        },
+        {
+          "date": "2022-03-27",
+          "balance": 7.17
+        },
+        {
+          "date": "2022-05-12",
+          "balance": 30.01
+        },
+        {
+          "date": "2022-06-06",
+          "balance": 25.2
+        }
+      ]
     },
     {
-      "name": "Sonic 2: The Movie",
-      "balance": 56.4
+      "name": "Sonic 2",
+      "balances":[
+        {
+          "date": "2022-04-10",
+          "balance": 15.8
+        },
+        {
+          "date": "2022-05-12",
+          "balance": 22.1
+        },
+        {
+          "date": "2022-06-06",
+          "balance": 18.54
+        }
+      ]
     },
     {
-      "name": "Fantastic Beasts: The Secrets of Dumbledore",
-      "balance": 51.4
+      "name": "Fantastic Beasts",
+      "balances":[
+        {
+          "date": "2022-04-17",
+          "balance": 22.22
+        },
+        {
+          "date": "2022-04-24",
+          "balance": 11.83
+        },
+        {
+          "date": "2022-05-01",
+          "balance": 5.52
+        },
+        {
+          "date": "2022-06-06",
+          "balance": 11.84
+        }
+      ]
     },
     {
       "name": "Top Gun: Maverick",
-      "balance": 45.8
-    },
-    {
-      "name": "Uncharted",
-      "balance": 27.5
-    }
-  ],
-  "countries": [
-    {
-      "name": "Brazil",
-      "movies": [
+      "balances":[
         {
-          "name": "Dr Strange: Multiverse of Madness",
-          "balance": 27.2
+          "date": "2022-05-29",
+          "balance": 15.75
         },
         {
-          "name": "The Batman",
-          "balance": 19.15
-        },
-        {
-          "name": "Sonic 2: The Movie",
-          "balance": 9.4
-        },
-        {
-          "name": "Fantastic Beasts: The Secrets of Dumbledore",
-          "balance": 8.56
-        },
-        {
-          "name": "Top Gun: Maverick",
-          "balance": 7.63
-        },
-        {
-          "name": "Uncharted",
-          "balance": 4.58
-        }
-      ]
-    },
-    {
-      "name": "USA",
-      "movies": [
-        {
-          "name": "Dr Strange: Multiverse of Madness",
-          "balance": 81.6
-        },
-        {
-          "name": "The Batman",
-          "balance": 57.45
-        },
-        {
-          "name": "Sonic 2: The Movie",
-          "balance": 28.2
-        },
-        {
-          "name": "Fantastic Beasts: The Secrets of Dumbledore",
-          "balance": 25.68
-        },
-        {
-          "name": "Top Gun: Maverick",
-          "balance": 22.89
-        },
-        {
-          "name": "Uncharted",
-          "balance": 13.74
-        }
-      ]
-    },
-    {
-      "name": "Spain",
-      "movies": [
-        {
-          "name": "Dr Strange: Multiverse of Madness",
-          "balance": 54.4
-        },
-        {
-          "name": "The Batman",
-          "balance": 38.3
-        },
-        {
-          "name": "Sonic 2: The Movie",
-          "balance": 18.8
-        },
-        {
-          "name": "Fantastic Beasts: The Secrets of Dumbledore",
-          "balance": 17.12
-        },
-        {
-          "name": "Top Gun: Maverick",
-          "balance": 15.26
-        },
-        {
-          "name": "Uncharted",
-          "balance": 9.16
+          "date": "2022-06-06",
+          "balance": 30.08
         }
       ]
     }
