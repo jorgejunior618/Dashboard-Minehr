@@ -13,10 +13,11 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
     overflow-x: hidden;
     list-style: none;
+    color: ${({ theme }) => theme.colors.fontColor};
   }
   a, h1, h2, h3, p, strong, span {
     text-decoration: none;
-    color: black;
+    color: currentColor;
   }
   h1, h2, h3 {
     color: ${({ theme }) => theme.colors.primaria};

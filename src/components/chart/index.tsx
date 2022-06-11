@@ -1,5 +1,4 @@
 import ReactApexCharts from 'react-apexcharts';
-import theme from '../../styles/themes';
 import { ChartWrapper } from './styled';
 
 type ChartProps = {
@@ -72,9 +71,6 @@ function Chart({
           },
           title: {
             text: title,
-            style: {
-              color: theme.colors.primaria,
-            },
           },
           xaxis:
             chartType === 'scatter'

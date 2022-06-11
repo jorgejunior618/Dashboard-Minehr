@@ -10,6 +10,8 @@ declare module 'styled-components' {
       background: string;
       backgroundAlternativo: string;
       shadowColor: string;
+      cardColor: string;
+      fontColor: string;
     };
   }
 }
