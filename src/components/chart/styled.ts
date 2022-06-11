@@ -12,4 +12,8 @@ export const ChartWrapper = styled.section`
     color: ${({ theme }) => theme.colors.primaria};
     fill: ${({ theme }) => theme.colors.primaria};
   }
+
+  @media only screen and (max-width: 900px) {
+    margin-bottom: 15px;
+  }
 `;

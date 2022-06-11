@@ -33,4 +33,10 @@ export const ChartsArea = styled.section`
   * {
     overflow: visible;
   }
+
+  @media only screen and (max-width: 900px) {
+    display: flex;
+    flex-direction: column;
+    gap: none;
+  }
 `;
