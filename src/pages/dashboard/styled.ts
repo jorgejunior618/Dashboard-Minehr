@@ -23,8 +23,14 @@ export const DashboardWrapper = styled.main`
   }
 `;
 
-export const GraphicsArea = styled.section`
+export const ChartsArea = styled.section`
   display: grid;
-  grid-template-columns: 48% 48%;
-  gap: 4%;
+  grid-template-columns: 49% 49%;
+  gap: 2%;
+  height: max-content;
+  overflow: visible;
+
+  * {
+    overflow: visible;
+  }
 `;
