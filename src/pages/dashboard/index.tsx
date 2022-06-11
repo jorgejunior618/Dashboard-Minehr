@@ -39,8 +39,6 @@ function Dashboard() {
       moviesList.push(movie.name);
     });
 
-    console.log({ balanceListDates });
-
     setBalances(balanceList);
     setMovies(moviesList);
     setBalancesDates(balanceListDates);

@@ -9,8 +9,6 @@ function App() {
   const [themeMode, setThemeMode] = useState<'light' | 'dark'>('light');
 
   const toggleTheme = () => {
-    console.log({ themeMode });
-
     switch (themeMode) {
       case 'light':
         setThemeMode('dark');
